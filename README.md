@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Chibueze-0k
-- 👀 I’m interested in software dvelopment and Artificial intelligence
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Fortune
+- 👀 I’m interested in software dvelopment and AI and Data Science
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on any data science project
+- 📫 How to reach me https://t.me/fortuneakano
 
 <!---
 Chibueze-0k/Chibueze-0k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
