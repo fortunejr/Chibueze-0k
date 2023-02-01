@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Fortune
+- **👋 Hi, my name is Fortune**
 - 👀 I’m interested in software dvelopment and AI and Data Science
 - 🌱 I’m currently learning Data Science (Python)
 - 💞️ I’m looking to collaborate on any data science project
